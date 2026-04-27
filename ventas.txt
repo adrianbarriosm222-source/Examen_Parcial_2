@@ -1,0 +1,5 @@
+Rodrigo Adrian Barrios Monteroso,Galletas Oreo,4,20,80,0,80,Efectivo
+Rosa María Hernandez,Shampoo,5,35,175,0,175,Tarjeta
+Juan Valdez López,Ron Zacapa Centenario,3,400,1200,84,1116,Efectivo
+María de los Ángeles Castillo,Frijol,5,8,40,0,40,Tarjeta
+Kenia Guadalupe Flores Osuna,Pastas de Tomate,6,5,30,0,30,Efectivo
